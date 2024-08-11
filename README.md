@@ -11,10 +11,10 @@ My journey in computer science has led me to develop a passion for web developme
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Application Development with Spring Boot      | SOC Automation Lab|
-| Windows Architecture                          | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Application Development with Spring Boot      | WEB Development            |
+| Windows Architecture                          | Windows Security           |
+| Case Management with TheHive                  | SOC Automation Lab         |
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab        |
 
 ## Tools
 
@@ -24,13 +24,6 @@ My journey in computer science has led me to develop a passion for web developme
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
     <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white" />
 </div>
-
-## Certifications
-
-<div>
-<img src="https://img.shields.io/badge/Google-Certification-brightgreen?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/-TryHackMe-000000?style=for-the-badge&logo=TryHackMe" />
-<img src="https://img.shields.io/badge/Udemy-Cybersecurity-9cf?logo=udemy&logoColor=white" />
     
 </div>
 
